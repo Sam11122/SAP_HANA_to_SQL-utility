@@ -1,5 +1,5 @@
 # SAP_HANA_to_SQL-utility
-This is a python utility which helps to convert graph calculation views in SAP HANA to a series of SQL CTEs. It can take ViewXML from SAP HANA for a particular view and convert each node into an SQL CTE. The code parses the XML and converts it into corresponding SQL queries. 
+This is a python utility which helps to convert graph calculation views in SAP HANA to a series of SQL CTEs. It can take ViewXML from SAP HANA for a particular view and convert each node into an SQL CTE. The code parses the XML and converts it into corresponding SQL queries. It can save countless man-hours of manual migration work where one is migrating from SAP HANA to any new data warehouse.
 
  
 
