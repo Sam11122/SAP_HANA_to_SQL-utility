@@ -18,4 +18,4 @@ This is a python utility which helps to convert graph calculation views in SAP H
 3. Place the python utility (hana_to_sql_utility.py) in some directory. In the same directory, create a folder named xmls.
 4. Place the ViewXML(s) of your models inside xmls folder.
 5. Run the utility using python hana_to_sql_utility.py or simply run using any IDE.
-6. SQL will be generated in the another directory (queries).
+6. SQL will be generated in another directory (queries).
