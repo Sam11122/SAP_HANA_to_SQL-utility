@@ -3,7 +3,7 @@ This is a python utility which helps to convert graph calculation views in SAP H
 
  
 
-**Features: **
+**Features:**
 
 1. The script generates the SQL code step by step, which means the order of the nodes in the calc view is preserved in the generated SQL.
 2. It is able to generate SQL for all types of HANA nodes (Aggregation, Projection, Rank, Join, Union)
